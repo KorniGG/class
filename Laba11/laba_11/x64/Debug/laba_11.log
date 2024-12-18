@@ -1,0 +1,10 @@
+﻿  Lab11_main.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(51,11): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(51,11): warning C4244:         with
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(51,11): warning C4244:         [
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(51,11): warning C4244:             _Ty=float
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(51,11): warning C4244:         ]
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(52,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(60,12): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\laba_11\Lab11_main.cpp(94,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  laba_11.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\x64\Debug\laba_11.exe
