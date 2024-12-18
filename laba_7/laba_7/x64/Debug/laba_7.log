@@ -1,0 +1,5 @@
+﻿  Set.cpp
+  main.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_7\laba_7\main.cpp(10,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  laba_7.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_7\x64\Debug\laba_7.exe
