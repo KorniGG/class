@@ -1,0 +1,5 @@
+﻿  Software.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\Bloknot\Bloknot\Software.cpp(6,12): error C2731: wWinMain: функция не может быть перегружена
+      C:\Users\aisha\OneDrive\Рабочий стол\Bloknot\Bloknot\Software.cpp(6,12):
+       см. объявление "wWinMain"
+  
