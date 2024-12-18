@@ -1,0 +1,7 @@
+﻿  Money.cpp
+  laba_10.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_10\laba_10\laba_10.cpp(8,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_10\laba_10\laba_10.cpp(12,17): warning C4101: cnt: неиспользованная локальная переменная
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_10\laba_10\laba_10.cpp(12,12): warning C4101: num: неиспользованная локальная переменная
+  Создание кода...
+  laba_10.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_10\x64\Debug\laba_10.exe
