@@ -1,0 +1,6 @@
+﻿  Money.cpp
+  zadacha2_main.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_2\zadacha2_main.cpp(62,15): warning C4267: инициализация: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_2\zadacha2_main.cpp(110,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Создание кода...
+  Zadacha_2.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\x64\Debug\Zadacha_2.exe
