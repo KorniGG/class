@@ -1,0 +1,5 @@
+﻿  fraction.cpp
+  Lab1_main.cpp
+  Создание кода...
+Lab1_main.obj : error LNK2005: main уже определен в fraction.obj
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\lab_1\lab_1\x64\Debug\lab_1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
