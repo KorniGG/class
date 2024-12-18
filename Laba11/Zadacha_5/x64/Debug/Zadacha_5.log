@@ -1,0 +1,33 @@
+﻿  Money.cpp
+  zadacha5_main.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(60,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5_main.cpp")
+      C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(60,17):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\zadacha5_main.cpp(13,16):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(54,26):
+          во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\zadacha5_main.cpp(13,17):
+              см. первую ссылку на "Vector<Money>::Vector" в "main"
+  
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(140,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5_main.cpp")
+      C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(140,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(129,44):
+          во время компиляции функции-члена класс шаблон "void Vector<Money>::RemoveGreaterThanAverage(void)"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\zadacha5_main.cpp(23,28):
+              см. первую ссылку на "Vector<Money>::RemoveGreaterThanAverage" в "main"
+  
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(175,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha5_main.cpp")
+      C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(175,16):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\Vector.h(164,33):
+          во время компиляции функции-члена класс шаблон "void Vector<Money>::MultiplyByMax(void)"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\Zadacha_5\zadacha5_main.cpp(28,17):
+              см. первую ссылку на "Vector<Money>::MultiplyByMax" в "main"
+  
+  Создание кода...
+  Zadacha_5.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_11\x64\Debug\Zadacha_5.exe
