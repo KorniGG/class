@@ -1,0 +1,36 @@
+﻿  Container.cpp
+  zadacha3_main.cpp
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(5,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(49,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3_main.cpp")
+      C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(49,14):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(9,15):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Vector<Money>"
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(43,1):
+          во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(9,18):
+              см. первую ссылку на "Vector<Money>::Vector" в "main"
+  
+C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(99,8): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "zadacha3_main.cpp")
+      C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(99,8):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(43,1):
+          во время компиляции функции-члена класс шаблон "Vector<Money>::Vector(int)"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(9,18):
+              см. первую ссылку на "Vector<Money>::Vector" в "main"
+          C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(95,1):
+          во время компиляции функции-члена класс шаблон "T Vector<T>::Srednee(void)"
+          with
+          [
+              T=Money
+          ]
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\Container.h(108,8):
+              см. первую ссылку на "Vector<Money>::Srednee" в "Vector<Money>::RemoveGreaterThanAverage"
+              C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\Zadacha_3\zadacha3_main.cpp(17,30):
+              см. первую ссылку на "Vector<Money>::RemoveGreaterThanAverage" в "main"
+  
+  Создание кода...
+  Zadacha_3.vcxproj -> C:\Users\aisha\OneDrive\Рабочий стол\информатика полякова\laba_12\x64\Debug\Zadacha_3.exe
