@@ -1,0 +1,3 @@
+﻿  main.cpp
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: неразрешенный внешний символ WinMain.
+C:\Users\aisha\OneDrive\Рабочий стол\komm\x64\Release\komm.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
